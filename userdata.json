@@ -22,5 +22,11 @@
         "key": "Jd",
         "expirydate": "10-12-2025",
         "Allowoffline": false
+    },   
+    {
+        "device_id": "0f4b9cc01427daf4",
+        "key": "frozen",
+        "expirydate": "10-12-2026",
+        "Allowoffline": false
     }
 ]
