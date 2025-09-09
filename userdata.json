@@ -39,5 +39,10 @@
         "key": "Bunny",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },{
+        "device_id": "120feec73c63a2e7",
+        "key": "King12",
+        "expirydate": "19-09-2025",
+        "Allowoffline": false
     }
 ]
