@@ -44,5 +44,10 @@
         "key": "frozenx",
         "expirydate": "10-10-2025",
         "Allowoffline": false
+    },{
+        "device_id": "8eae9a36e5c5206e",
+        "key": "deep",
+        "expirydate": "11-09-2025",
+        "Allowoffline": false
     }
 ]
