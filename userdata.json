@@ -56,5 +56,11 @@
         "key": "NEKOPAPA",
         "expirydate": "13-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "905387d45875cc17",
+        "key": "GOKUXPRIME",
+        "expirydate": "13-09-2025",
+        "Allowoffline": false
     }
 ]
