@@ -62,5 +62,10 @@
         "key": "GOKUXPRIME",
         "expirydate": "13-09-2025",
         "Allowoffline": false
+    },{
+        "device_id": "982b94657b2fff14",
+        "key": "harsh",
+        "expirydate": "13-09-2025",
+        "Allowoffline": false
     }
 ]
