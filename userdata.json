@@ -50,5 +50,11 @@
         "key": "PAKODAOSINT",
         "expirydate": "13-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "608b3487791442fe",
+        "key": "NEKOPAPA",
+        "expirydate": "13-09-2025",
+        "Allowoffline": false
     }
 ]
